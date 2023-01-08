@@ -1,7 +1,7 @@
 # DRV-8825-Stepper-Motor-Carrier-High-Current
 
-High Current, Stepper Motor Carrier - Copy of ealier version, updated to suit.
+High Current, Stepper Motor Carrier - Clone of an ealier A4988 version, updated to suit.
 
-* Update with latest file DRV8825-fixed.fzpz
+* Make sure to update with latest file : DRV8825-fixed.fzpz
 
 Cheers, Bantum ...
